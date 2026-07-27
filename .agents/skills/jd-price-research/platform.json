@@ -1,0 +1,22 @@
+{
+  "platform_name": "京东",
+  "marketplace_hosts": {
+    "jd.com": "search.jd.com"
+  },
+  "item_hosts": [
+    "item.jd.com"
+  ],
+  "item_id_pattern": "^[0-9]{5,30}$",
+  "id_query_keys": [],
+  "id_path_patterns": [
+    "^/([0-9]{5,30})\\.html$"
+  ],
+  "canonical_host": "item.jd.com",
+  "canonical_path_template": "/{item_id}.html",
+  "canonical_query_template": "",
+  "search_url_templates": {
+    "relevance": "https://{host}/Search?keyword={query}",
+    "price-ascending": "https://{host}/Search?keyword={query}&psort=2",
+    "newest": "https://{host}/Search?keyword={query}&psort=5"
+  }
+}

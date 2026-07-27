@@ -1,0 +1,7 @@
+interface:
+  display_name: "京东价格研究"
+  short_description: "多轮核验京东商品当前价格、目标规格、评价、店铺、优惠条件与购买风险"
+  default_prompt: "使用 $jd-price-research 多轮搜索并核验京东当前最低价可行商品"
+
+policy:
+  allow_implicit_invocation: true
