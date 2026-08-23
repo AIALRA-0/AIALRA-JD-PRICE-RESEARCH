@@ -23,7 +23,7 @@
     ".agents/skills/jd-price-research/scripts/promote.py": "a68003a16738141752db61106c8fafee31b001ae9e9ad8466ebe4747d1faa103",
     ".agents/skills/jd-price-research/scripts/rank_offers.py": "e883899f04f88db6472aa74fd50793e457b7b935f34fd03904679f122e4c30f7",
     ".agents/skills/jd-price-research/scripts/runner.py": "afd479afcf6d852201109b2906fa4f0039925f06dcba52cb43b3de954ce7483e",
-    ".agents/skills/jd-price-research/scripts/runtime_lib.py": "26013aba9313d03c7b67a76b61b5234d8e52eafd71f2e9a1a2cb7dc1cbc099b3",
+    ".agents/skills/jd-price-research/scripts/runtime_lib.py": "86186ba367cf88ae508084f0694877a29ff848e064ca584bf12394f2b5519a6e",
     ".agents/skills/jd-price-research/scripts/validate_access.py": "9b9676bae6dc6621cd262c8db5214dac63fab5923676b91fa21885e4e9b976a6",
     ".agents/skills/jd-price-research/scripts/validate_final.py": "498e3c2e26a05f7065de16ccfe2c9ef415ad02055af63772def78a0acef5b73e",
     ".agents/skills/jd-price-research/scripts/validate_inspection.py": "4010fcc3dc4e61cc4a23535a9556317278ad2b7ba2b327bc296c0b46d721bf5d",
@@ -36,12 +36,12 @@
     ".pre-commit-config.yaml": "721f006af8f50751b68c7ac00cad81d44cf57cb7296403916eeb17a760f25643",
     "AGENTS.md": "7d6347ac38bf0f11f2fe2c82993a7353893c4581a13fcbe2ccd8be6701c9f375",
     "SECURITY.md": "2fd9f4c2fbc27a2a5aa89c68e22c5f08e9a91670293cd907ef2f5553da545d9d",
-    "VERSION": "1f930dd1f133c1f97a94fe3acb8db34372cf4c01ffdb2b3ff4ca72f9494121e9",
+    "VERSION": "71015c979ccb0fc8a0be7ca0ae83046ab045cdc2c8faa09fb2f0f7e440f9b4a6",
     "scripts/check_secrets.py": "0c45e9a2eccb054b1a2347a9b3f65f77ef35f4b760831e2ec3a24ccc3385af40",
     "scripts/install_local.py": "e5ab3d37dcb6e1a4eef8bd28b848326fe4477735e3bb5c56c8e7f8775a946814",
     "scripts/validate.py": "bd6ff45c47651e415f25cd26db712f4da73606f4723e2ff8f8f58077d5f29f5e"
   },
   "format_version": 1,
   "skill_name": "jd-price-research",
-  "skill_version": "0.2.0"
+  "skill_version": "0.2.1"
 }
